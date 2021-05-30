@@ -1,0 +1,112 @@
+2021-05-22 13:57:24.596 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:24.687 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:24.687 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:28.988 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_RewardAd: 视频播放完毕
+2021-05-22 13:57:28.988 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video onEvent show 广告事件：3001
+2021-05-22 13:57:28.988 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  AdPlayCompletion 广告播放结束 
+2021-05-22 13:57:28.989 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_BaseActivity: EncourageAD onEventCallback code:3001
+2021-05-22 13:57:28.997 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: sendRequest:https://api.youkeying.qq.com/ssp/video_complete?request_id=9f61c49804d18945c28fc256c94e6e93&request_time=1621655790819&app_id=30008&pos_id=30031&os_type=android&imei=&idfa=&caid=&oaid=184d3184dec12e02&android_id=7bd6507d1e9c2e71&ip=192.168.3.45&ad_id=-1&creative_id=4803&device_brand=xiaomi&device_model=m2002j9e&network=WIFI&client_time=1621663048996&sign=aa6dfeab0d5ebc753f208cf47a843fde
+2021-05-22 13:57:29.006 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: sendRequest:https://api.youkeying.qq.com/api/v1/play_notice?request_id=9f61c49804d18945c28fc256c94e6e93&param=aHVhX7ztRT_IUZ5tvyBU2HiUZy9KkEKriHjlDy6-ecQoHb66vPV7-9HFiKnvRVqW9ztF8_ac5RKhNBLXAs3ym4tAlmNMhV4ezF40u9lQsmQnFasRmsfQgbpbka4tCLSz4Ijx4RPGBtJk6y51TilKRt1VrcNWonNToovM-Mho9KtqoaFfRNO2SLnl-3CDsIGB18u641qb-WbXveu0aZTD9pPIcKen2cuNsQ8QNIf_OP4CkjJ7R4X-BFl2dqE_34Ck0tovtoJsorTrTSN8UlKH-W43iy6NKg5bgaooo8GM5cwDOTnhhzC0ZCnXX_Nci69asK4AywA3rc83LwOh8kTTTEaFGAoIoS26p1PdqpKz1sTQsT7z3CUAEwPFhAetWstYVe2NbQtfiOTx2l64VJFnhEIVY3wpGSKiRh95rHMH5tGGVgKm98C0l7Y66cP4zXpZNrvuhcj5z-xdo_1xPF3L1GS-Wjf86vRR66pXzdP6dYEvqTzfK_4GOHm3RvZZfIHzV2QMM5g1eCZZM098VP-Gcvq-bo-GkfWi08-BCZKqEzNQwVjHOaQeZ-KRWMlOcWRiKW0WvgiKJHtrJT2ecLDTKuDEb0OOHuVqGw_X41STrgsDK0RaIvb27OSIvF6z9jnQcUxVESjc9NsijDwzGNuQRIZ1fdS3iXOxzPGluJIjYv30GgMQgAOsJK79xRyq7eYO7HJh6Wgd5zM28ifW_o3q9k6AyawI1MeAbGZycYPMEn09Ju3RmOtYxmPQquf1cbd1gRPFpimmnKIC0E9wC-Hf2FBqi7PBdX_CfcZosPDFXRqWUXTr4BF_b8bQFP-fXQSgwYWQEln54m2tWecu_2lPR3GEyHEfOc3GLz1wlTwMRwrjDryQhxallAqSCgI9GGiwLTK8MfrmiyF5jYY9FIsBktSIJ-h0nou1OgfsRavO44i4WKVFO2QCgY6XZv_Er5L4N3jjm4rf-vZBOV5vcRx61-fJID2tsEn_blP3kNGxSV9F6oW8PpqR86apYDODMZksSDnxcsRff8ZdE0kYYUtEcyw=&is_test=0&play_event_type=ad_apk_play_complete
+2021-05-22 13:57:29.043 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: 上报成功
+2021-05-22 13:57:29.061 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: 上报成功
+2021-05-22 13:57:29.688 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:29.771 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:29.771 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:34.779 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:34.851 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:34.852 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:39.853 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:39.925 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:39.925 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:44.932 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:45.001 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:45.001 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:50.007 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:50.071 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:50.071 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:57:55.074 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:57:55.145 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:57:55.145 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:00.151 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:00.228 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:00.228 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:05.232 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:05.366 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:05.366 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:10.373 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:10.514 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:10.514 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:15.520 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:15.642 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:15.642 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:20.651 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:20.774 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:20.774 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:25.781 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:25.854 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:25.854 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:30.859 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:30.928 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:30.928 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:35.936 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:36.008 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:36.008 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:41.015 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:41.084 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:41.084 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:46.092 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:46.170 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:46.170 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:51.176 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:51.263 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:51.263 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:58:51.577 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video onEvent show 广告事件：3003
+2021-05-22 13:58:51.577 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  AdSkip  用户点击跳过 
+2021-05-22 13:58:51.577 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_BaseActivity: EncourageAD onEventCallback code:3003
+2021-05-22 13:58:51.582 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: sendRequest:https://api.youkeying.qq.com/api/v1/close_notice?request_id=9f61c49804d18945c28fc256c94e6e93&param=aHVhX7ztRT_IUZ5tvyBU2HiUZy9KkEKriHjlDy6-ecQoHb66vPV7-9HFiKnvRVqW9ztF8_ac5RKhNBLXAs3ym4tAlmNMhV4ezF40u9lQsmQnFasRmsfQgbpbka4tCLSz4Ijx4RPGBtJk6y51TilKRt1VrcNWonNToovM-Mho9KtqoaFfRNO2SLnl-3CDsIGB18u641qb-WbXveu0aZTD9pPIcKen2cuNsQ8QNIf_OP4CkjJ7R4X-BFl2dqE_34Ck0tovtoJsorTrTSN8UlKH-W43iy6NKg5bgaooo8GM5cwDOTnhhzC0ZCnXX_Nci69asK4AywA3rc83LwOh8kTTTEaFGAoIoS26p1PdqpKz1sTQsT7z3CUAEwPFhAetWstYVe2NbQtfiOTx2l64VJFnhEIVY3wpGSKiRh95rHMH5tGGVgKm98C0l7Y66cP4zXpZNrvuhcj5z-xdo_1xPF3L1GS-Wjf86vRR66pXzdP6dYEvqTzfK_4GOHm3RvZZfIHzV2QMM5g1eCZZM098VP-Gcvq-bo-GkfWi08-BCZKqEzNQwVjHOaQeZ-KRWMlOcWRiKW0WvgiKJHtrJT2ecLDTKuDEb0OOHuVqGw_X41STrgsDK0RaIvb27OSIvF6z9jnQcUxVESjc9NsijDwzGNuQRIZ1fdS3iXOxzPGluJIjYv30GgMQgAOsJK79xRyq7eYO7HJh6Wgd5zM28ifW_o3q9k6AyawI1MeAbGZycYPMEn09Ju3RmOtYxmPQquf1cbd1gRPFpimmnKIC0E9wC-Hf2FBqi7PBdX_CfcZosPDFXRqWUXTr4BF_b8bQFP-fXQSgwYWQEln54m2tWecu_2lPR3GEyHEfOc3GLz1wlTwMRwrjDryQhxallAqSCgI9GGiwLTK8MfrmiyF5jYY9FIsBktSIJ-h0nou1OgfsRavO44i4WKVFO2QCgY6XZv_Er5L4N3jjm4rf-vZBOV5vcRx61-fJID2tsEn_blP3kNGxSV9F6oW8PpqR86apYDODMZksSDnxcsRff8ZdE0kYYUtEcyw=&is_test=0&skip_event_type=1
+2021-05-22 13:58:51.586 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: sendRequest:https://api.youkeying.qq.com/ssp/close?request_id=9f61c49804d18945c28fc256c94e6e93&request_time=1621655790819&app_id=30008&pos_id=30031&os_type=android&imei=&idfa=&caid=&oaid=184d3184dec12e02&android_id=7bd6507d1e9c2e71&ip=192.168.3.45&ad_id=-1&creative_id=4803&device_brand=xiaomi&device_model=m2002j9e&network=WIFI&client_time=1621663131586&ad_skip_act=2&ad_video_remain=0&sign=aa6dfeab0d5ebc753f208cf47a843fde
+2021-05-22 13:58:51.587 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video onEvent show 广告事件：3002
+2021-05-22 13:58:51.587 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  AdShowFinish  广告展示结束 
+2021-05-22 13:58:51.588 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  关闭广告
+2021-05-22 13:58:51.588 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: KleinVideoAdapter notifyCloseVideoAd
+2021-05-22 13:58:51.589 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video 广告开始
+2021-05-22 13:58:51.589 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video appid : 30008
+2021-05-22 13:58:51.589 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video pid : 30031
+2021-05-22 13:58:51.589 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  isFirstLoadVideo :false
+2021-05-22 13:58:51.589 13534-13534/com.wedobest.spiderette.tg E/KLEINSDK_KleinManager: call_loadEncourageAD
+2021-05-22 13:58:51.608 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_KleinManager: loadEncourageAD sspRequest->SspRequest{request_id=37c1d0d3e71c7358c8b4e91964bd4f29, app=App{app_id=30008, app_ver=1.16, app_pkg=com.wedobest.spiderette.tg, sdk_ver=1.3.2.17}, device=Device{ua=, ip=192.168.3.45, ipv6=, language=zh, geo=Geo{lat=30.48102, lon=114.402737, type=IP, country=CHN, region=zho, city=}, brand=Xiaomi, model=M2002J9E, os=android, osv=11, width=1080, height=2400, orientation=vertical, network=wifi, carrier=unknown, devicetype=PHONE, idfa=, idfa_md5=, imei=, imei_md5=, oaid=184d3184dec12e02, oaid_md5=, caid=, caid_md5=, android_id=7bd6507d1e9c2e71, android_id_m5=}, position=[Position{pos_id=30031, ad_count=1, ad_reward_trigger=0}]}
+2021-05-22 13:58:51.608 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: reportCgiRealTime: module:EncourageAD requestID:37c1d0d3e71c7358c8b4e91964bd4f29 cmd:ssp_request resultCode:0 resultMsg: param: msg: reportState:start costTime:0
+2021-05-22 13:58:51.609 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video onEvent load 广告事件：907
+2021-05-22 13:58:51.609 13534-13534/com.wedobest.spiderette.tg E/KLEINSDK_KleinManager: 发送广告请求：appid=30008
+2021-05-22 13:58:51.609 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiNow=== 
+2021-05-22 13:58:51.610 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_BaseActivity: EncourageAD onEventCallback code:3002
+2021-05-22 13:58:51.630 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: 上报成功
+2021-05-22 13:58:51.632 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_RewardAd: pauseVideo
+2021-05-22 13:58:51.644 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_ReportManager: 上报成功
+2021-05-22 13:58:51.836 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_KleinManager: loadEncourageAD onResponse : 200
+2021-05-22 13:58:51.836 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video onEvent load 广告事件：908
+2021-05-22 13:58:51.836 13534-13534/com.wedobest.spiderette.tg E/KLEINSDK_KleinManager: 接收到广告请求
+2021-05-22 13:58:51.836 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: reportCgiRealTime: module:EncourageAD requestID:37c1d0d3e71c7358c8b4e91964bd4f29 cmd:ssp_success resultCode:0 resultMsg: param: msg: reportState:success costTime:228
+2021-05-22 13:58:51.836 13534-13534/com.wedobest.spiderette.tg E/KLEINSDK_KleinManager: downloadRequestFile
+2021-05-22 13:58:51.837 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: reportCgiRealTime: module:EncourageAD requestID:37c1d0d3e71c7358c8b4e91964bd4f29 cmd:meterial_request resultCode:0 resultMsg: param: msg: reportState:start costTime:0
+2021-05-22 13:58:51.837 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:51.838 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiNow=== 
+2021-05-22 13:58:51.838 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiNow=== 
+2021-05-22 13:58:51.864 13534-13534/com.wedobest.spiderette.tg D/KLEINSDK_KleinManager: 开始下载200
+2021-05-22 13:58:51.916 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:51.932 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:52.079 13534-14327/com.wedobest.spiderette.tg D/KLEINSDK_KleinManager: 保存结果 : true
+2021-05-22 13:58:52.083 13534-14327/com.wedobest.spiderette.tg D/DAU-DEBUG: 743------Klein Video  onSuccess 请求成功 
+2021-05-22 13:58:52.083 13534-14327/com.wedobest.spiderette.tg E/KLEINSDK_KleinManager: 素材下载成功
+2021-05-22 13:58:52.083 13534-14327/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: reportCgiRealTime: module:EncourageAD requestID:37c1d0d3e71c7358c8b4e91964bd4f29 cmd:meterial_success resultCode:0 resultMsg: param:{"template":102,"materital_type":"video","material_size":2197} msg: reportState:success costTime:246
+2021-05-22 13:58:52.083 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiNow=== 
+2021-05-22 13:58:52.146 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:52.550 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_RewardAd: 广告关闭
+2021-05-22 13:58:52.584 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: KleinVideoAdapter notifyRequestVideoAdSuccess
+2021-05-22 13:58:52.585 13534-13534/com.wedobest.spiderette.tg D/DAU-DEBUG: video---checkRequestComplete mRequestGroupAdapters : {743=com.jh.adapters.KleinVideoAdapter@dc20f20}
+2021-05-22 13:58:56.269 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:58:56.376 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:58:56.376 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
+2021-05-22 13:59:01.380 13534-14011/com.wedobest.spiderette.tg D/KLEINSDK_FullLink: ===uploadWithCgiBatch=== length:10
+2021-05-22 13:59:01.736 13534-13534/com.wedobest.spiderette.tg I/KLEINSDK_FullLink: onSuccess
+2021-05-22 13:59:01.736 13534-13534/com.wedobest.spiderette.tg V/KLEINSDK_FullLink: send delayed
